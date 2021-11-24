@@ -1,4 +1,3 @@
-import "./App.css";
 import adi from "./assets/adi.jpg";
 import logoa from "./assets/logoa.png";
 
